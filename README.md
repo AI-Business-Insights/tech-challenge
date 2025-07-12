@@ -3,18 +3,19 @@
 Pós-Tech FIAP | Datathon | Grupo 59  
 **Pós-Tech IA para Devs – São Paulo/SP, 2025**
 
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/0c4a8d95-caa5-4346-a438-98651fb208f6" />
+
 ## Integrantes
 
-Ana Maria Silva (RM: 366289)
-Débora Dâmaso (RM: 366501)
-Juliana Conde (RM: 366402)
-Marcelo Fernandes (RM: 366035)
-Mariana Santana (RM: 366262)
-
+- Ana Maria Silva (RM: 366289)
+- Débora Dâmaso (RM: 366501)
+- Juliana Conde (RM: 366402)
+- Marcelo Fernandes (RM: 366035)
+- Mariana Santana (RM: 366262)
 
 ## Introdução
 
-Este repositório corresponde ao projeto do Tech Challenge da Pós-Tech IA para Devs (FIAP), cujo objetivo é desenvolver um sistema inteligente de suporte ao diagnóstico para um hospital universitário. O desafio consiste em aplicar técnicas de Inteligência Artificial (IA), com foco em Machine Learning e Visão Computacional, para auxiliar na análise de exames médicos e processamento de dados clínicos, contribuindo para decisões mais rápidas e eficazes em contextos de alta demanda hospitalar, como a pandemia da COVID-19.
+Este repositório corresponde ao projeto do Tech Challenge da Pós-Tech IA para Devs (FIAP) do Grupo AI&Business Insights, cujo objetivo é desenvolver um sistema inteligente de suporte ao diagnóstico para um hospital universitário. O desafio consiste em aplicar técnicas de Inteligência Artificial (IA), com foco em Machine Learning e Visão Computacional, para auxiliar na análise de exames médicos e processamento de dados clínicos, contribuindo para decisões mais rápidas e eficazes em contextos de alta demanda hospitalar, como a pandemia da COVID-19.
 
 ## Descrição dos Datasets
 
@@ -41,8 +42,6 @@ A solução foi construída a partir da integração de dois datasets relacionad
 ## Pré-processamento dos Dados
 
 #### **Limpeza dos dados:**
-  
-  
 
 - **Registros de Pacientes:**
   Limpeza de dados, tratamento de valores ausentes, normalização e seleção de características.<br>
@@ -55,9 +54,7 @@ A solução foi construída a partir da integração de dois datasets relacionad
 
 ## Desenvolvimento do Modelo
 
-
 ## Avaliação dos Modelos
-
 
 - **Imagens de Radiografia de Pulmão:**
   - Métricas de avaliação: Acurácia, Recall, F1-Score.
@@ -93,13 +90,8 @@ A solução foi construída a partir da integração de dois datasets relacionad
 
 ## Conclusão
 
-
 ## Lições Aprendidas
 
-
-
 ## Referências
-
-- KALINOWSKI, Marcos. Análise Exploratória e Visualização de Dados. In: KALINOWSKI, Marcos; ESCOVEDO, Tatiana; VILLAMIZAR, Hugo; LOPES, Hélio. Engenharia de Software para Ciência de Dados: um guia de boas práticas com ênfase na construção de sistemas de Machine Learning em Python. São Paulo: Casa do Código, 2023. p. 195-240.
 
 ## Apêndices
