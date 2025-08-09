@@ -1,6 +1,5 @@
 # Tech Challenge 6IADT - Fase 1
 
-Pós-Tech FIAP | Datathon | Grupo 59  
 **Pós-Tech IA para Devs – São Paulo/SP, 2025**
 
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/0c4a8d95-caa5-4346-a438-98651fb208f6" />
@@ -19,12 +18,14 @@ Este repositório corresponde ao projeto do Tech Challenge da Pós-Tech IA para 
 
 ## Descrição dos Datasets
 
+O grupo decidiu trabalhar com fontes de dados distintas (dados tabulares e imagens) para ter a possibilidade de testar o uso de diferentes algoritmos de detecção de padrões, assim como aproximar-se da realidade de um hospital ou centro de diagnóstico, que certamente tem à disposição dados de diferentes naturezas e formatos, que podem ou não ser combinados para uma avaliação mais abrangente do estado de saúde de um paciente, permitindo ações que possam personalizar seu atendimento, de acordo com a tendência de evolução da doença, identificada a partir dos dados e modelos estatísticos e matemáticos empregados na análise dos dados.
+
 A solução foi construída a partir da integração de dois datasets relacionados ao COVID-19:
 
-- **Dataset de Registros de Pacientes:**  
+- **Dataset de Registros de Pacientes (dados tabulares):**  
   Contém dados estruturados, como idade, sexo e variáveis clínicas, para prever a probabilidade de evolução para quadros graves de COVID-19, identificando fatores de risco para priorização de pacientes.
 
-- **Dataset de Imagens de Radiografias de Pulmão:**  
+- **Dataset de Radiografias de Pulmão (imagens):**  
   Inclui imagens classificadas em estados como opacidade, pneumonia, COVID-19 ou saudável. Utiliza redes neurais convolucionais (CNNs) para detectar anormalidades pulmonares associadas à doença, apoiando o diagnóstico visual.
 
 ## Exploração dos Dados
@@ -86,7 +87,7 @@ A solução foi construída a partir da integração de dois datasets relacionad
    - Resultados e interpretação
 
 6. **Vídeo de Demonstração:**  
-   (Incluir link para o vídeo no YouTube)
+   [Vídeo no YouTube comdemonstração do sistema em execução com breve explicação do fluxo.](https://www.youtube.com/playlist?list=PL1zapSlcAQTfqfXpcY-upK14391b0Z5Nw)
 
 ## Conclusão
 
@@ -94,4 +95,6 @@ A solução foi construída a partir da integração de dois datasets relacionad
 
 ## Referências
 
-## Apêndices
+- Material da Fase 1 - Welcome to IA para Devs - FIAP
+- Kaggle COVID-19 Dataset
+- KAGGLE. COVID-19 Radiography Database
