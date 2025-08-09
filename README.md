@@ -71,20 +71,23 @@ A solução foi construída a partir da integração de dois datasets relacionad
 ## Entregáveis
 
 1. **Repositório no Github:**  
-   [https://github.com/AI-Business-Insights/tech-challenge](https://github.com/AI-Business-Insights/tech-challenge)
+  No repositório [https://github.com/AI-Business-Insights/tech-challenge](https://github.com/AI-Business-Insights/tech-challenge) constam:
+  - Datasets (dados tabulares e imagens)
+  - Notebooks Google Colab
+  - Relatório da Documentação
+  - Link do Vídeo de demosntração no YouTube
+  - Referências
 
-2. **Links dos Datasets:**  
+3. **Links dos Datasets:**  
     https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
     https://www.kaggle.com/datasets/meirnizri/covid19-dataset
 
-4. **Resultados:**  
-   - Capturas de tela dos resultados
-   - Gráficos e visualizações
+4. **Notebooks Google Colab:**  
+   - Base de Dados I - Dataset de Registros de Pacientes (dados tabulares): incluir link
+   - Base de dados II - Dataset de Radiografias de Pulmão (imagens): incluir link
 
 5. **Relatório Técnico:**  
-   - Estratégias de pré-processamento
-   - Justificativa dos modelos escolhidos
-   - Resultados e interpretação
+   - DocumentacaoGeral_AIBI_TechChallenge_Fase1.pdf
 
 6. **Vídeo de Demonstração:**  
    [Vídeo no YouTube com demonstração do sistema em execução com breve explicação do fluxo.](https://www.youtube.com/playlist?list=PL1zapSlcAQTfqfXpcY-upK14391b0Z5Nw)
@@ -95,6 +98,7 @@ A solução foi construída a partir da integração de dois datasets relacionad
 
 ## Referências
 
-- Material da Fase 1 - Welcome to IA para Devs - FIAP
+- Artigo Alec Zhixiao Lin (2013) - Paper 095-213
+- Material da Fase 1 - Welcome to IA para Devs - Plataforma FIAP
 - Kaggle COVID-19 Dataset
 - Kaggle COVID-19 Radiography Database
