@@ -35,7 +35,9 @@ A solução foi construída a partir da integração de dois datasets relacionad
 Na estrutura da documentação consta:
 
 ### Descrição
+
 ### Exploração dos Dados
+
 ### Pré-processamento dos Dados
 
 - **Registros de Pacientes:**
@@ -47,8 +49,6 @@ Na estrutura da documentação consta:
   - Carregamento e exploração visual de exemplos.
   - Distribuição das classes.
   - Discussão dos resultados preliminares.
-
-### Pré-processamento dos Dados
 
 ### Limpeza dos dados
 
@@ -74,8 +74,6 @@ Na estrutura da documentação consta:
 - Limitações e possíveis melhorias futuras.
 
 ### Lições Aprendidas e Melhorias 
-
-- Limitações e possíveis melhorias identificadas
 
 ### Conclusão
 
