@@ -14,7 +14,7 @@
 
 ## Introdução
 
-Este repositório corresponde ao projeto do Tech Challenge da Pós-Tech IA para Devs (FIAP) do Grupo AI&Business Insights, cujo objetivo é desenvolver um sistema inteligente de suporte ao diagnóstico para um hospital universitário. O desafio consiste em aplicar técnicas de Inteligência Artificial (IA), com foco em Machine Learning e Visão Computacional, para auxiliar na análise de exames médicos e processamento de dados clínicos, contribuindo para decisões mais rápidas e eficazes em contextos de alta demanda hospitalar, como a pandemia da COVID-19.
+Este repositório corresponde ao projeto do Tech Challenge da Pós-Tech IA para Devs (FIAP) do Grupo Artificial Intelligence & Business Insights, cujo objetivo é desenvolver um sistema inteligente de suporte ao diagnóstico para um hospital universitário. O desafio consiste em aplicar técnicas de Inteligência Artificial (IA), com foco em Machine Learning e Visão Computacional, para auxiliar na análise de exames médicos e processamento de dados clínicos, contribuindo para decisões mais rápidas e eficazes em contextos de alta demanda hospitalar, como a pandemia da COVID-19.
 
 ## Descrição dos Datasets
 
@@ -87,7 +87,7 @@ A solução foi construída a partir da integração de dois datasets relacionad
    - Resultados e interpretação
 
 6. **Vídeo de Demonstração:**  
-   [Vídeo no YouTube comdemonstração do sistema em execução com breve explicação do fluxo.](https://www.youtube.com/playlist?list=PL1zapSlcAQTfqfXpcY-upK14391b0Z5Nw)
+   [Vídeo no YouTube com demonstração do sistema em execução com breve explicação do fluxo.](https://www.youtube.com/playlist?list=PL1zapSlcAQTfqfXpcY-upK14391b0Z5Nw)
 
 ## Conclusão
 
@@ -97,4 +97,4 @@ A solução foi construída a partir da integração de dois datasets relacionad
 
 - Material da Fase 1 - Welcome to IA para Devs - FIAP
 - Kaggle COVID-19 Dataset
-- KAGGLE. COVID-19 Radiography Database
+- Kaggle COVID-19 Radiography Database
