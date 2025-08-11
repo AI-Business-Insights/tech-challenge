@@ -57,10 +57,6 @@ Na estrutura da documentação consta:
 ## Entregáveis
 
 1. **Repositório no Github e Google Drive:**  
-  - Notebooks Google Colab (Base de dados tabulares e imagens)
-  - Relatório da Documentação
-  - Link do Vídeo de demonstração no YouTube
-  - Referências
   - [Pasta no Google Drive com Entregáveis](https://drive.google.com/drive/folders/1pEZHwCrVuLVRahdMEr89pPuFEcwg8mQI?usp=drive_link)
 
 3. **Links dos Datasets:**  
@@ -73,7 +69,7 @@ Na estrutura da documentação consta:
    - [Base de dados II - Dataset de Radiografias de Pulmão (imagens)](https://github.com/AI-Business-Insights/tech-challenge/blob/5c3f6a3bed09d5c30e181cb124775c31389a7888/notebooks/Covid_19_Imagens_dataset.ipynb)
 
 5. **Relatório Técnico:**  
-   - Relatório da Documentação (em PDF)
+   - [Relatório da Documentação (em PDF)](https://drive.google.com/file/d/1RWTwwmhm8u9K-q5MBZzj4uWWKSrI4Sw0/view?usp=drive_link)
 
 6. **Vídeo de Demonstração:**  
    [Vídeo no YouTube com demonstração do sistema em execução com breve explicação do fluxo.](https://www.youtube.com/playlist?list=PL1zapSlcAQTfqfXpcY-upK14391b0Z5Nw)
